@@ -1,0 +1,27 @@
+{
+  "name": "apily-builder",
+  "version": "0.0.1",
+  "maintainers": [
+    {
+      "name": "Enrico Marino",
+      "email": "enrico.marino@email.com"
+    },
+    {
+      "name": "Federico Spini",
+      "email": "federico.spini@gmail.com"
+    }
+  ],
+  "description": "Component builder",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:apily/apily-builder.git"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "0.8.x"
+  }
+}
